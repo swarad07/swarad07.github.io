@@ -3,7 +3,7 @@ layout: post
 title: "PUBG Mobile 10 Tips and Tricks to Improve your game."
 date: 2018-12-07
 subtitle: "Check out some expert tips for improving your gameplay."
-bigimg: https://raw.githubusercontent.com/swarad07/swarad07.github.io/master/assets/img/no-grass.jpg
+bigimg: /img/no-grass.jpg
 tags: [Gaming, Mobile, Battle Royale, PUBG]
 comments: true
 ---

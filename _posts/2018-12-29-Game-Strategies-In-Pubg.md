@@ -3,7 +3,7 @@ layout: post
 title: "Game Strategies in PUBG Mobile for Ranking up."
 date: 2018-12-29
 subtitle: "Best stratgies for quickly ranking up and wining in PUBG Classic Mode."
-bigimg: https://raw.githubusercontent.com/swarad07/swarad07.github.io/master/assets/img/map.png
+bigimg: /img/map.png
 tags: [Gaming, Mobile, Battle Royale, PUBG]
 comments: true
 ---
