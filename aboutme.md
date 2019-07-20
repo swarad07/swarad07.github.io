@@ -6,8 +6,8 @@ subtitle: Self advertisement!
 
 My name is Swarad Mokal. I am good at following,
 
-- I am a Software Engineer, currently working with Drupal.
-- I am huge fan of Kimi Raikkonen & hence Formula 1.
+- I am a Software Engineer, currently working with [Drupal](https://drupal.org).
+- I am huge fan of [Kimi Raikkonen](https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen) & hence Formula 1.
 - I know way too much about cars, I dont know why.
 - I like to play Sim Racing games on my PS4.
 - I also like to read, but mostly of the fantasy genre, A Song of Ice and Fire and Harry Potter nerd.
