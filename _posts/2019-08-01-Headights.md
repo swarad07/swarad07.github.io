@@ -12,7 +12,7 @@ Aah, I wanted to write about this for so long, only if I had a nickle everytime 
 
 So as part of this Know your car series, lets start with a very basic, something that is visible, easily accessible to everyone, your car's eyes, Headlights.
 
-Headlights have been part of cars since there was a car, even before cars, horse drawn carraiges used to have oil lamps in a crystal housing to illumate the surrondings.
+Headlights have been part of cars since there was a car, even before cars, horse drawn carraiges used to hav e oil lamps in a crystal housing to illumate the surrondings.
 
 # The Fundamentals
 
@@ -22,6 +22,7 @@ There are certain terms we need to understand, contrary to popular belief, all h
 - Color (Temprature)
 - Throw (Distance of road illuminated from the bumper of the car)
 - Brightness (Lumens)
+- Headlight Bulb mount. (HB/H number)
 
 Lets talk about each of them.
 
@@ -89,10 +90,28 @@ Notice we havent talked about color, that is because brightness and color is not
 
 ## Light Source
 
-Every bulb you buy, will have its color temprature mentioned on it. This is true even for indoor house lighting bulbs, which typically will be above 5000K.
+> The most common misconception is that you need to change your bulb type to change headlight color.
 
-The most common misconception is that you need to change your bulb type to change headlight color. You simpl
+### Halogen bulb
 
+Any halogen bulb, has a tungsten filament which burns when current passes through it. The glass housing for this filament is filled with a inert gas with small traces of Halogens like Bromine or Iodine. This bulb produces the greenish yellow light that we are used to.
 
+You can spend a bit more and get a halogen bulb that produces a more neutral light, something like 3700K - 3900K which is much more on the whiter side. The way this is achived is the halogen around the filament is Xenon, which burns brighter and produces a whiter light. Search for Philips Nightvision, Osram Night Breaker series.
 
-Any halogen bulb, has a tungsten filament which burns when current passes through it. The glass housing for this filament is filled with a inert gas with small traces of Halogens like Bromine or Iodine. This bulb
+### LED
+
+Other light source which has gained popularity due to lets face it the cheap cost is LEDs. LED light source has some particular quirks which are not obvious,
+- The filament does not get hot, but the driver part (the base) does, so you need a cooling fan at the base.
+- As it is LED even a 30-35W LED, produces same light as a 55W Halogen.
+- Low life span than Halogen, particular if it is not from OEM.
+- Due to the additional cooling requirement, the manufacturer needs to plan for this while desiging the car. Hence more often than not, even though you can fit LED in your housing, it messes up with headling assembly due to the heat produced at the base.
+- Works better in projector housing than in reflector.
+
+### HID / LASERS
+
+While HID is started to trickle down to consumer Cars, Lasers are still exclusive to very high end consumer or sports cars. HID also produces a whiter light which is also brighter. HID is High intensity discharge, produced by lamps which have high saturation of gas like Xenon. Some quriks of HID / LASER,
+- Can be fitted in projectors only.
+- Need a heat sink bolted on to the car to disperse the heat, which is even more than LEDs.
+- So again similar to LEDs, if your manufacturer hasnt planned for it, doing this after market is really risky.
+
+# TLDR: Safety, DIY & Tips for Headlight Upgrade.

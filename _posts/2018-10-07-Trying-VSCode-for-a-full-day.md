@@ -3,7 +3,7 @@ layout: post
 title: "Testing Visual Studio Code - a not so baised review"
 date: 2018-10-07
 subtitle: "Trying Visual Studio Code for a full day of work."
-bigimg: /img/property-info.png
+#bigimg: /img/property-info.png
 tags: [Coding, testing, review, Editor, IDE]
 comments: true
 ---

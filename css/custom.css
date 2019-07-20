@@ -40,7 +40,9 @@ body {
   color: #008AFF;
 }
 
-header.has-img h1 {
+header.has-img h1,
+header.has-img h2.post-subheading,
+header.has-img span.post-meta {
   color: #B1FD00;
 }
 
