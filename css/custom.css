@@ -42,3 +42,9 @@ body {
 header.has-img h1 {
   color: #B1FD00;
 }
+
+p.theme-by {
+  font-family: Open Sans;
+  text-transform: capitalize;
+  font-size: 16px;
+}
