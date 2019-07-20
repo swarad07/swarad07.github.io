@@ -5,6 +5,7 @@ date: 2019-08-01
 excerpt: "Headlights are eyes of your car, if you dont take care of them you are blind during night. This post will help you to understand your car's headlight assembly and what are some of the DIY ways to upgrade headlights, in a budget but more importantly safe way."
 tags: [Automotive, Cars, Bike, Vehicle, Engineering, Lights, LED, HID, Car Care, DIY]
 comments: true
+published: false
 ---
 
 Aah, I wanted to write about this for so long, only if I had a nickle everytime I have cursed when I see a noob driving towards me with white headlamps on high beam. Apart from the safety aspect aside of this situation, the main problem I realized after talking to many after market car parts vendors is the lack of knowledge about what is best for a vehicle. The over saturation of cheap LED headlamps also doesnt help.
