@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Self advertisement!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Swarad Mokal. I am good at following,
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a Software Engineer, currently working with Drupal.
+- I am huge fan of Kimi Raikkonen & hence Formula 1.
+- I know way too much about cars, I dont know why.
+- I like to play Sim Racing games on my PS4.
+- I also like to read, but mostly of the fantasy genre, A Song of Ice and Fire and Harry Potter nerd.
+- That is not true, I also like to read anything related to the world of Motorsports & Engineering.
+- If nothing else I prefer farming and gardening.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Will add more as and when I discover more.
