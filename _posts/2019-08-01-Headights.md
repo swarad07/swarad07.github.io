@@ -96,6 +96,8 @@ Brightness has nothing to do with color, a yellow bulb can be as bright as a whi
 
 ### Light Source
 
+We have three kinds of light sources.
+
 #### Halogen bulb
 
 Any halogen bulb, has a tungsten filament which burns when current passes through it. The glass housing for this filament is filled with a inert gas with small traces of Halogens like Bromine or Iodine. This bulb produces the greenish yellow light that we are used to.
@@ -112,6 +114,7 @@ Other light source which has gained popularity due to its cheap cost is LEDs. LE
 - LED have low life span than Halogens, especially the cheap Chinese ones.
 - Due to the additional cooling requirement, the manufacturer needs to plan for this while desiging the car. Hence more often than not, you will need some kind of fan or cooling to disperse heat.
 - Works better in projector housing than in reflector.
+
 
 #### HID / LASERS
 
