@@ -14,7 +14,7 @@ So as part of this "Know Your Car" series, lets start with a very basic componen
 
 Headlights have been part of cars since there was a car, even before cars, horse drawn carraiges used to have oil lamps in a crystal housing to illumate the surrondings.
 
-# The Fundamentals
+## The Fundamentals
 
 There are certain terms we need to understand, contrary to popular belief, all headlights are not same. A headlight assembly is a combination of,
 - Housing (Reflector/Projector)
@@ -26,32 +26,32 @@ There are certain terms we need to understand, contrary to popular belief, all h
 
 Lets talk about each of them, and also see what are some of the things every Indian Car Owner should know.
 
-# Facts
+## Facts
 1. Any alteration to your headlight assembly as provided by your car manufacturer is illegal as per Indian Motor Vehicle Act.
 2. Even swapping out your halogen bulb for plug-to-plug LED/HID Kits is illegal.
 3. Moreover you void the manufacturer warranty, a common argument is, "Hey we are not cutting any wires or such, then why is warranty void?". It is because your vehcile's headlight assembly was designed and passed inspection to ensure it meets certain standards of safety, maintainence, etc. If tomorrow due to the higher power requirements of HID or cooling issues of LED, you blow your fuse or damage wires, your manufacturer has complete right to refuse you the warranty.
 
-# Headlight Housing
+## Headlight Housing
 
-## Reflector housing
+### Reflector housing
 [Picture for reflector housing]
 
 The most common headlight housing is the reflector housing. It is very simple and for car manufacturers, a straightforward setup to keep the price of the car down. Hence you see this on 99% of the cars on the road. The idea is simple, it has a Halogen light bulb creating light, which bounces of the reflective mirror surface at the back and comes out of the clear glass at the front.
 
 This is a battle tested headlight design. This has been the headlight design used for pretty much every vehcile invented by man, be it on land, water, air and even space.
 
-### Advantages:
+#### Advantages:
 - Low Cost
 - Easy maintainence
 
-### Disadvantages:
+#### Disadvantages:
 - High percentage of light wasted as heat.
 - High percentage of light scattered above road surface.
 - Only compatible with halogen bulbs.
 - Less throw.
 
 
-## Projector housing
+### Projector housing
 [Picture for reflector housing]
 
 Projector headlamps eventually found their way to high end European sports cars. Then slowly trickled down to consumer cars.
@@ -60,23 +60,23 @@ The idea of a projector housing it has a lens in front to project the light on t
 
 Manufacturers have to spend more resources in desiging to ensure proper barriers for preveinting dust, debris and water.
 
-### Advantages:
+#### Advantages:
 - 0 scatter above the road.
 - More throw.
 - Less wattage bulbs in projectors produce same light as high wattage bulbs in reflectors.
 - Less heat.
 - Supports LED, HID headlights.
 
-### Disadvantages:
+#### Disadvantages:
 - Expensive compared to reflectors.
 
-# Light Source, Brightness & color.
+## Light Source, Brightness & color.
 
 Now we come to the meat of this topic! First of all people, people seem to forget that these three are separate topics.
 
 Lets start with the simplest,
 
-## Color
+### Color
 
 [picture of color temp scale]
 
@@ -86,7 +86,7 @@ At the lower end of the scale, from 2000K to 3000K, the light produced is warmer
 
 Recently EU Laws have made it mandatory for car manufacturers to equip lights more towards the white range.
 
-## Brightness
+### Brightness
 
 Brightness is what defines how much you see on the road at night. More the brightness more the visibility. Typically, headlights are advertised by their power rating. A standard for cars is to have a 55/60W bulbs. So the cheapest way for most people to UP the brightness is to UP the wattage and have a 100/90W bulb instead. This does solve the problem of producing more light, but it also amplifies the disadvantages. (Heat, Light waste, etc)
 
@@ -94,15 +94,15 @@ Brightness has nothing to do with color, a yellow bulb can be as bright as a whi
 
 > When most people want to upgrade headlights, they actually want more brightness and not necessarily change color. But because of lack of knowledge, a common misconception is white color is more bright and the whole problem starts.
 
-## Light Source
+### Light Source
 
-### Halogen bulb
+#### Halogen bulb
 
 Any halogen bulb, has a tungsten filament which burns when current passes through it. The glass housing for this filament is filled with a inert gas with small traces of Halogens like Bromine or Iodine. This bulb produces the greenish yellow light that we are used to.
 
 You can spend a bit more and get a halogen bulb that produces a more neutral light (3700K - 3900K) but still consumes same power. This is possible due to higher concentration of Xenon along with Halogens.
 
-### LED
+#### LED
 
 Other light source which has gained popularity due to its cheap cost is LEDs. LED light source has some particular quirks which are not obvious,
 
@@ -113,7 +113,7 @@ Other light source which has gained popularity due to its cheap cost is LEDs. LE
 - Due to the additional cooling requirement, the manufacturer needs to plan for this while desiging the car. Hence more often than not, you will need some kind of fan or cooling to disperse heat.
 - Works better in projector housing than in reflector.
 
-### HID / LASERS
+#### HID / LASERS
 
 While HID technology for headlights has started to trickle down to consumer Cars, Lasers are still exclusive to very high end consumer or sports cars. HID produces a whiter & brighter light than Halogens and LED. HID is High intensity discharge, produced by lamps which have high saturation of gases like Xenon.
 
