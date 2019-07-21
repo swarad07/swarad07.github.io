@@ -3,7 +3,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h2.post-title,
-article.blog-post h2 {
+article.blog-post h2,
+article.blog-post h3 {
   position: relative;
   z-index: 1;
 }
@@ -18,6 +19,15 @@ article.blog-post h2::before {
   z-index: -1;
   left: -4px;
   top: -2px;
+}
+
+article.blog-post h3::before {
+  content: '';
+  background: linear-gradient(to right, rgba(194,155,41,1) 0%,rgba(255,255,255,1) 73%);
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  bottom: -10px;
 }
 
 .post-preview .post-meta,
