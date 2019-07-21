@@ -61,3 +61,7 @@ p.theme-by {
   text-transform: capitalize;
   font-size: 16px;
 }
+
+.navbar-custom .nav .navlinks-container .navlinks-children a {
+  background-color: #200E1D;
+}
