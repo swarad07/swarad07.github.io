@@ -32,7 +32,7 @@ While 1 is good, it might be sometimes risky. There is a chance someone else als
 
 A safe bet in such cases is to land at another locations that work for you.
 
-![map](/assets/img/map.png)
+![map](/img/map.png)
 
 If you notice the above map, there are good locations scattered all around, you just need to find a backup for early game loot spot, preferrably something that is opposite side of your fav spot so it can be covered in the plan path.
 
@@ -54,7 +54,7 @@ Worst case scenarios, I have a alternate locations (white circles locations) Far
 
 ## Startegy starts - Phase 1.
 
-![speed](/assets/img/speed.png)
+![speed](/img/speed.png)
 
 You need to know the circle speeds & damage they do. Refer this handy [reddit link](https://www.reddit.com/r/PUBATTLEGROUNDS/comments/6odhok/circle_breakdown_times_damage_travel_time_and_tips/), it lists down all the cirlces, their speeds, the damage they do and their time. Also remember circle moves faster on the bigger side.
 

@@ -24,7 +24,7 @@ A huge disclaimer that I am no way an expert on VS Code, infact I would go furth
 3. Faster and less memory consuption - The biggest & the only reason I want to move away from my IDE is that it consumes significant portion of my tiny Macbook's processing power. A couple of browsers, one terminal, couple of design tools, slack for messages, zoom for meetings are pretty normal apps which I all use at the same time, so you can see processing power is at a premium (Atleast till I upgrade my machine).
 
 4. The quick info option for any property is very good, you can quickly see the function defination as you type.
-![quick-info](/assets/img/property-info.png)
+![quick-info](/img/property-info.png)
 
 ## Things I absolutely hated out of the box, which were fixable.
 1. Copy Paste Mess - I had to find my inner peace for this one, for some reason the formatting of entire file kept getting messed up when I did copy paste. Bit of searching and clearly I wasnt the only one, found this [stackoverflow answer](https://stackoverflow.com/questions/42747498/vs-code-indentation-when-copying-and-pasting-is-messed-up), I honestly dont know why this is ON by default.
@@ -48,7 +48,7 @@ Now the search autofill works just the way I want on <kbd>CMD</kbd>+<kbd>SHIFT</
 2. (Fix updated below) - When I click on a file in sidebar, it opens in new tab, if I click on a different file it opens again in the same tab closing the previous file. I think this has got to do with wether that file has any change or not, I dont know how to make each file open in a new tab always.
 
 3. (Fix updated below) - CSS hierarchy - When you hover on selector I get to see the hierrarchy of the selectors, this is helpful in SCSS files. But I would love an bar at the bottom similar to how PHPStrom does it, where you see the parents as you type. This saves that additional hover action.
-![php-storm-css](/assets/img/CSS-hierrachy.png)
+![php-storm-css](/img/CSS-hierrachy.png)
 
 4. Search - Old keywords. I find that I often do two seaprate searches and then have to go back to the old keyword to find a file I had just seen which is now not showing up. But there is no way I see that I can select that old keyword from a dropdown or something and run the old search again.
 

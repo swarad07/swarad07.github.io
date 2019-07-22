@@ -65,11 +65,11 @@ So, try to find guns for two cases, close to mid range and other for long range.
 
 You dont see me!
 
-![lying in grass](/assets/img/grass.jpg)
+![lying in grass](/img/grass.jpg)
 
 Actually I do!
 
-![lying in grass](/assets/img/no-grass.jpg)
+![lying in grass](/img/no-grass.jpg)
 
 Redenring distance is a very important concept to understand. Essentially your phone/device is going to render the environment around you based on how far you can see, so you might feel that I am lying in grass or hidden behind a bush, but guess what for someone with a 6x or 8x scope from around 200m away, you are lying on ground without any cover, the greenary will not render for them but your charachter will, hence you are just a sitting duck!
 
@@ -91,7 +91,7 @@ In the map below,
 - Yellow - Medium loot.
 - White - Not much loot.
 
-![map](/assets/img/map.png)
+![map](/img/map.png)
 
 Top spots will give you a higher probability to find top guns and higher level items, but if you will notice on the map these are few locations and very tightly packed, so expect a lot of fighting initially and that too with good players.
 
@@ -163,7 +163,7 @@ But if you know that you cant finish the kill, better to not do anything and obs
 
 ## 10. Approach the safe zone, surfing the bluezone.
 
-![speed](/assets/img/speed.png)
+![speed](/img/speed.png)
 
 This is the last and most important tip I can give. PUBG's safe zones are popular for hard shifts, forcing you to go all the way from one end of blue zone to another. In later circles if you dont have a vehicle you will get lots of damage from bluezone.
 
