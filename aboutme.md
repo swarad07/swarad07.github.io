@@ -16,4 +16,5 @@ My name is Swarad Mokal. Below are only some of the things about me,
 - That is not true, I also like to read about the world of Engineering, Software, Motorsports, Astronomy.
 - If nothing else I prefer farming and gardening.
 
-My Linkedin: https://www.linkedin.com/in/swarad/
+[LinkedIn: (swarad)](https://www.linkedin.com/in/swarad/)
+[Twitter: (swarad07)](https://twitter.com/swarad07)
