@@ -31,7 +31,8 @@ I should clarify that I really like the form factor of 13" Macbooks and not a fa
 
 So I bought a 2019 13" Macbook Pro,
 - 2.4 GHz Intel Core i5 Quad-Core
-- 16 GB 2133 MHz LPDDR3 RAM | 256GB SSD
+- 16 GB 2133 MHz LPDDR3 RAM
+- 256GB SSD
 - 13.3" 2560 x 1600 IPS Retina Display
 - Integrated Intel Iris Plus Graphics 655
 
