@@ -77,14 +77,14 @@ colours than sRGB, also now equipped with true tone technology to automate adjus
 
 The new design of Macbooks have front facing speakers, they certainly do make a differnece. I see notably better sound quality than my earlier 2015 Macbook.
 
-### 7. RIP Glowing Apple logo.
+### 8. RIP Glowing Apple logo.
 
 I dont know what made apple ditch this, but I always liked the glowing Apple logo on my Macbook, this mirror finish just doesnt look right. Maybe it will grow on me as I see it everyday. Still, that glowing Apple logo was cool.
 
-### 8. RIP Magsafe charger.
+### 9. RIP Magsafe charger.
 
 I understand that Apple wanted to use the USB-C port also to double up as a charging port, but why could not they have created a newer version of Magsafe adapter which works with USB-C, especially I see cheap adapters avaialble on Amazon which add a Magsafe like magnetic adapter to your USB-C port? When Apple spent so much time & effort into the touchbar & keyboard, surely they could have engineered a solution for MagSafe.
 
-### 9. A better webcam.
+### 10. A better webcam.
 
 The webcam is still 720p from a 1 Mega Pixel sensor :(, for a premium laptop expected better.
