@@ -26,7 +26,7 @@ Starting your car is a combination of multiple things, but this is a good step t
 
 While starting your unused car we need to have some additional steps, consider this as a checklist,
 
-- Even before starting we need to check the underside of the car for any leakages around the engine bay, fuel tank, and wheels.
+- Even before starting, we need to check the underside of the car for any leakages around the engine bay, fuel tank, and wheels.
 - Put your key into the ignition, but don't start the engine just yet.
 - Wait for a good 1-2 minutes for all fluids, oils, to circulate through all systems, allowing them to undergo a smooth start-up.
 - Check for any warning lights on the dashboard.
@@ -66,9 +66,9 @@ Once the car is moving at speed above 20 kmph, start by opening the air vents of
 
 Once you are driving for at least 2-3 min, only then close air vents, close windows, and start your AC. Dont try this in a standstill car, your radiator will heat quickly, especially if fluids are low and no fresh air is hitting the radiator.
 
-## 4. Tyres.
+## 4. Tires.
 
-When car's tires sit in one spot for a long period, they develop flat spots and deformation. Especially in extreme cold and heat conditions. However, this is not an issue for some weeks or even a couple of months. This will happen if a car is left undriven for 3-4 months.
+When car tires sit in one spot for a long period, they develop flat spots and deformation. Especially in extreme cold and heat conditions. However, this is not an issue for some weeks or even a couple of months. This will happen if a car is left undriven for 3-4 months.
 
 The best way to avoid any such issues is to roll your car a few meters forwards and backward every week. If you can start your car then good exercise is to change the parking spot of your car every week, this would indirectly take care of everything.
 
@@ -78,7 +78,7 @@ When a car is not in use, car brakes, calipers, suspension springs, bearings, hu
 
 Hence it is advisable to not Overspeed in a car that has been idle for a long time. **Best to take it slow, apply brakes slowly, steer slowly and feel if everything is working fine and keep ears open for any noise,** Springs, bearings hubs get in shape quickly (within the first kilometer) as the grease and oils start to coat all surfaces again.
 
-Brake & brake calipers need some time to get up to optimal performance. So smooth application of brakes for first 8-10km is must, this will ensure the friction remove any rust and contaminants sitting in between brake discs and calipers and they work optimally for you.
+Brake & brake calipers need some time to get up to an optimal performance. So smooth application of brakes for first 8-10km is must, this will ensure the friction remove any rust and contaminants sitting in between brake discs and calipers and they work optimally for you.
 
 ## 6. Hand brake or parking brake.
 
