@@ -27,7 +27,7 @@ You should by now figured our who reports the numbers for your locality. If not 
 
 ### Which tests are possible?
 
-Source: https://www.icmr.gov.in/cteststrat.html
+Source: [ICMR Tests](https://www.icmr.gov.in/cteststrat.html)
 
 #### Molecular based Test (RT PCR/TruNat/CBNAAT)
 The test is done for all right now, it detects virus in our throat via a throat swab. Time for report usually under 24hrs.
@@ -36,9 +36,9 @@ The test is done for all right now, it detects virus in our throat via a throat 
 This is a newer test, however as per reports the accuracy is less. Time for report usually under 30mins.
 
 #### Antibody testing
-Antibody test not only detect if you are positive but also check if you recovered on your own without any medication. Such tests were done in many cities across the world, including by India in hotspots and found that around 20% population was infected and got recovered with antibodies.
+Antibody test not only detect if you are positive but also check if you recovered on your own without any medication. Such tests are done at random among the population in many cities across the world, including by India in hotspots so you get to know a true sense of how widespread the impact of infection is.
 
-Reports of First such test: (https://www.newindianexpress.com/nation/2020/jun/08/15-30-people-in-containment-areas-exposed-to-covid-19-icmrs-serosurvey-2153893.html)
+Source: [Reports of First such antibody test in India](https://www.newindianexpress.com/nation/2020/jun/08/15-30-people-in-containment-areas-exposed-to-covid-19-icmrs-serosurvey-2153893.html)
 
 ## Testing Strategy
 
@@ -122,7 +122,7 @@ Some common sense precautions we take at our home,
 
 ## Cerdits
 
-All numbers and graphs are from Prof. Shamika Ravi (https://twitter.com/ShamikaRavi/). Her daily twitter update is the only update I have followed for last few months and helped me understand a lot about the numbers we see everyday. All charts are from her twitter feed.
+All numbers and graphs are from **[Prof. Shamika Ravi](https://twitter.com/ShamikaRavi/)**. Her daily twitter update is the only update I have followed for last few months and helped me understand a lot about the numbers we see everyday. All charts are from her twitter feed.
 
 Also https://www.covid19india.org/ the only tracker I follow for updates.
 
