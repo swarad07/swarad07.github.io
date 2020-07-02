@@ -47,10 +47,15 @@ Some people say why can’t we test everyone, that is a foolish argument, you ca
 Then how to decide whom to test? This is done by a strategy as below,
 
    1. Test all symptomatic patients & their family (high fever, sore throat, etc, or any other COVID19 symptoms)
-   2. 1. Test all high risk contacts of #1 even if asymptomatic. Lets call the 1st and 2nd group of people as *High Risk Individuals or HRI*
+   2. Test all high risk contacts of **#1** even if asymptomatic. Lets call the 1st and 2nd group of people as *High Risk Individuals or HRI*
    3. Inform contacts of HRI via contact tracing to self quarantine.
 
 Above **#1**, **#2** and **#3** are to be followed strictly but this is where issues start to happen. Ensuring **#2** and **#3** is where everything goes wrong if local administration is not strictly following protocol.
+
+For example, in Maharashtra asymptomatic are not tested now, which is a huge gap.
+Source: [Maharashtra not testing asymptomatic](https://www.timesnownews.com/india/article/maharashtra-not-testing-asymptomatic-cases-hiding-real-picture-of-covid-19-crisis-devendra-fadnavis/583229)
+
+In another contradictory news item the [CM reported that 80% of MH cases are asymptomatic](https://www.news18.com/news/india/80-covid-19-patients-in-maharashtra-asymptomatic-says-uddhav-thackeray-amid-concerns-of-silent-spread-2593463.html) which means it is even more important to test them as they unknowingly might be carriers for other people.
 
 ## Growth Rate (lower is better)
 
