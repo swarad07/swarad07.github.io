@@ -45,11 +45,12 @@ Source: [Reports of First such antibody test in India](https://www.newindianexpr
 Some people say why can’t we test everyone, that is a foolish argument, you can’t test all population even if you want to.  Given the incubation period of 14 days, someone who is tested -ve today can test +ve tomorrow due to any reason. So this is a waste of available resources.
 
 Then how to decide whom to test? This is done by a strategy as below,
-    1. Test all symptomatic patients & their family (high fever, sore throat, etc, or any other COVID19 symptoms)
-    2. Test all high risk contacts of #1 even if asymptomatic. Lets call the 1st and 2nd group of people as *High Risk Individuals or HRI*
-    3. Inform contacts of HRI via contact tracing to self quarantine.
 
-Above #1, #2 and #3 are to be followed strictly but this is where issues start to happen. Ensuring #2 and #3 is where everything goes wrong if local administration is not strict.
+   1. Test all symptomatic patients & their family (high fever, sore throat, etc, or any other COVID19 symptoms)
+   2. 1. Test all high risk contacts of #1 even if asymptomatic. Lets call the 1st and 2nd group of people as *High Risk Individuals or HRI*
+   3. Inform contacts of HRI via contact tracing to self quarantine.
+
+Above **#1**, **#2** and **#3** are to be followed strictly but this is where issues start to happen. Ensuring **#2** and **#3** is where everything goes wrong if local administration is not strictly following protocol.
 
 ## Growth Rate (lower is better)
 
@@ -120,7 +121,7 @@ Some common sense precautions we take at our home,
 5. When coming back home, take all belongings to a dedicated area where they can be left untouched for few hours. Wash your hands, feet, face with soap properly.
 6. Wash masks everyday or every use. Have 2-3 spare masks per person so the can be washed regularly.
 
-## Cerdits
+## Credits
 
 All numbers and graphs are from **[Prof. Shamika Ravi](https://twitter.com/ShamikaRavi/)**. Her daily twitter update is the only update I have followed for last few months and helped me understand a lot about the numbers we see everyday. All charts are from her twitter feed.
 
