@@ -2,8 +2,8 @@
 layout: post
 title: "Making sense of COVID data."
 date: 2020-07-02
-subtitle: "Making sense of COVID-19 numbers locally, nationally is important when most media just keeps repeating them without much explanation."
-bigimg: /img/covid/summary.png.png
+excerpt: "Making sense of COVID-19 numbers locally, nationally is important when most media just keeps repeating them without much explanation."
+bigimg: /img/covid/summary.png
 tags: [COVID19, Corona Virus, India]
 comments: true
 published: true
