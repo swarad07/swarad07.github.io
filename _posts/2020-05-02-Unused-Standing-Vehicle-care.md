@@ -3,7 +3,7 @@ layout: post
 title: "How to take care of your car when it is not in use."
 date: 2020-05-02
 excerpt: "Tips to ensure your car stays in shape when it has been left unused for a long time."
-tags: [Car Care, COVID-19, Corona Virus, Lock down]
+tags: [Car Care, COVID-19, Corona Virus, Lockdown]
 comments: true
 published: true
 ---

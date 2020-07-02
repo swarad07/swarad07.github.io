@@ -6,6 +6,7 @@ subtitle: "Making sense of COVID-19 numbers locally, nationally is important whe
 bigimg: /img/covid/summary.png.png
 tags: [COVID19, Corona Virus, India]
 comments: true
+published: true
 ---
 
 Making sense of COVID-19 numbers locally, nationally is important when most media sources just keeps scaring everyone using the total numbers as a score. It is important to understand the context behind each and what that number means. I hope this post sheds some light on the same.
