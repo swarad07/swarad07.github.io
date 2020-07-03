@@ -112,7 +112,7 @@ Death rate or Fatality rate means, for how many people out of the confirmed case
 
 ![India death rate](/img/covid/Indiad.png)
 
-Both the above graphs show a different picture, when averaged, India's death rate is very good compared to many western developed nations. The only countries doing better than India South Korea and Japan. For China data not released since March so this is a old number.
+Both the above graphs show a different picture, when averaged, India's death rate is very good compared to many western developed nations. The only countries doing better than India are South Korea and Japan. For China, data not released since March so this is a old number and highly unreliable.
 
 When we compare this to our state level data, We can see that four states are above national average. 2 are significantly higher, Delhi is 11x bad of national average and Maharastra is 5x bad.
 
