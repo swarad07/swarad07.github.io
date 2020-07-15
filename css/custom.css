@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 h1,h2,h3,h4,h5,h6 {
-  color: #164D60;
+  color: #222222;
+  font-weight: 300;
 }
 
 h2.post-title,
@@ -7,23 +10,27 @@ article.blog-post h2,
 article.blog-post h3 {
   position: relative;
   z-index: 1;
+  font-weight: 300;
+  font-family: 'Permanent Marker', cursive;
+  margin-bottom: 20px;
 }
 
 h2.post-title::before,
 article.blog-post h2::before {
   content: '';
-  background: linear-gradient(to right, rgba(177,253,0,1) 0%,rgba(255,255,255,0.41) 77%,rgba(255,255,255,0.35) 85%);
-  width: 100%;
-  height: 100%;
+  background: linear-gradient(to right, #9896f1 0%,rgba(255,255,255,0.41) 77%,#f4f6ff 85%);
   position: absolute;
   z-index: -1;
-  left: -4px;
-  top: -2px;
+  left: -30px;
+  top: -6px;
+  bottom: -6px;
+  border-radius: 40px 0 0 40px;
+  right: -10px;
 }
 
 article.blog-post h3::before {
   content: '';
-  background: linear-gradient(to right, rgba(194,155,41,1) 0%,rgba(255,255,255,1) 73%);
+  background: linear-gradient(to right, #9896f1 0%,#f4f6ff 73%);
   position: absolute;
   width: 100%;
   height: 3px;
@@ -34,7 +41,11 @@ article.blog-post h3::before {
 .post-heading .post-meta,
 .blog-tags,
 body {
-  color: #164D60;
+  color: #222222;
+}
+
+body {
+  background: #f4f6ff;
 }
 
 .blog-tags a {
@@ -42,8 +53,9 @@ body {
 }
 
 .navbar-custom {
-  box-shadow: 0px 8px 9px -2px #164D60;
+  box-shadow: 0px 8px 9px -2px rgba(0, 0, 0, 0.21);
   border: none;
+  background: #f4f6ff;
 }
 
 .post-preview a {
@@ -53,7 +65,8 @@ body {
 header.has-img h1,
 header.has-img h2.post-subheading,
 header.has-img span.post-meta {
-  color: #B1FD00;
+  color: #d59bf6;
+  font-family: 'Permanent Marker', cursive;
 }
 
 p.theme-by {
@@ -63,5 +76,37 @@ p.theme-by {
 }
 
 .navbar-custom .nav .navlinks-container .navlinks-children a {
-  background-color: #46033b;
+  background-color: #333;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  font-weight: 300;
+  color: #555555;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.post-preview .post-read-more,
+.blog-tags a {
+  color: #251f44;
+  font-weight: 300;
+  text-decoration: underline;
+  transition: all 0.3s ease-in-out;
+}
+
+.blog-tags a:hover {
+  background: none;
+}
+
+.page-heading h1,
+.post-heading h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+footer {
+  background-color: #336d88;
+}
+
+.main-pager a {
+  font-family: 'Permanent Marker', cursive !important;
 }
