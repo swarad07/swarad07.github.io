@@ -55,7 +55,7 @@ body {
 .navbar-custom {
   box-shadow: 0px 8px 9px -2px rgba(0, 0, 0, 0.21);
   border: none;
-  background: #f4f6ff;
+  background: linear-gradient(to right, #9896f1 0%,rgba(255,255,255) 77%,#f4f6ff 85%);;
 }
 
 .post-preview a {
@@ -82,7 +82,7 @@ p.theme-by {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 300;
-  color: #555555;
+  color: #222;
   font-family: 'Permanent Marker', cursive;
 }
 
